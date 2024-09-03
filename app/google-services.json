@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780583804926",
+    "project_id": "sheguard-15a57",
+    "storage_bucket": "sheguard-15a57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780583804926:android:365ba75b4ac70679a3eaaf",
+        "android_client_info": {
+          "package_name": "com.android.sheguard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTM1LMQxdgmF47qced8eK0ZeZCpS2C1nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
